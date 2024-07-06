@@ -1,0 +1,41 @@
+
+.navbar .nav-item {
+    margin-left: 10px;
+}
+#canvasans{
+    font-family: "IBM Plex Sans KR", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.ibm-plex-sans-kr-regular {
+  font-family: "Sofia Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+#beige {
+    background-color: #FBF9F1;
+}
+.btn-primary {
+    background-color: #A6A6A6;
+    border-color: #A6A6A6;
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+}
+.bg-gradient {
+    background-image: var(--bs-gradient) !important;
+}
+.feature-icon {
+    background-color: #92C7CF !important;
+}
+.icon-link {
+    text-decoration: none;
+    color: #92C7CF !important;
+}
+.icon-link svg {
+    fill: #92C7CF !important;
+}
+.contact-me a {
+    color: #92C7CF;
+}
